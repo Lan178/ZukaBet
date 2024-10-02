@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['6282138919347'] 
-global.mods = [] 
-global.prems = [] 
+global.owner = ['6281344741375'] 
+global.mods = ['6281344741375'] 
+global.prems = ['6281344741375'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Helga Zexs'
-global.numberowner = '6282138919347'
+global.numberowner = '6281344741375'
 global.instagram = 'https://instagram.com/helga_store20'
 global.github = 'https://github.com/Hyzerr'
 global.dana = '081398860278'
